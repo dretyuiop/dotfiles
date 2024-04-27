@@ -144,26 +144,14 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/cch/Torrents">
-  <title>Torrents</title>
+ <bookmark href="file:///home/cch/.local/share/chezmoi">
+  <title>chezmoi</title>
   <info>
    <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="folder-torrent"/>
+    <bookmark:icon name="inode-directory"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1680616233/0</ID>
-   </metadata>
-  </info>
- </bookmark>
- <bookmark href="file:///home/cch/VM">
-  <title>VM</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="qemu"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1684573533/0</ID>
-    <OnlyInApp/>
+    <ID>1714224742/0</ID>
    </metadata>
   </info>
  </bookmark>
@@ -383,6 +371,24 @@
    </metadata>
   </info>
  </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/dm_2d0</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>f6c6a8b1-824d-4a02-8bde-c3c095912a53</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p2</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>d31ed510-a159-4f60-9395-67d4a379fba1</uuid>
+   </metadata>
+  </info>
+ </separator>
  <bookmark href="kdeconnect://178fd246_09e8_4ecf_ba07_98e186864608/">
   <title>POCO X3 Pro</title>
   <info>
@@ -390,7 +396,7 @@
     <bookmark:icon name="kdeconnect"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1711547069/0</ID>
+    <ID>1714226976/0</ID>
    </metadata>
   </info>
  </bookmark>

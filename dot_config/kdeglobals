@@ -141,6 +141,7 @@ History Items[$e]=file:$HOME/Git/DesktopUI,file:$HOME/Games/Darkest Dungeon 2/wi
 
 [General]
 BrowserApplication=librewolf.desktop
+ColorScheme=BreezeDark
 ColorSchemeHash=cb4c6ee5cc9a59dbe09fb467a529af1bf5c55c97
 LastUsedCustomAccentColor=137,128,250
 Name=Breeze Dark
@@ -156,7 +157,7 @@ toolBarFont=Noto Sans,11,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
 [Icons]
-Theme=Tela-dracula-dark
+Theme=Tela-circle-dracula-dark
 
 [KDE]
 AnimationDurationFactor=0.25

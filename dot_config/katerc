@@ -175,6 +175,7 @@ RunPrefix=
 SetEditor=false
 
 [MainWindow]
+1536x864 screen: Window-Maximized=true
 1707x960 screen: Window-Maximized=true
 1920x1080 screen: Height=648
 1920x1080 screen: Width=1152
@@ -233,6 +234,9 @@ showFullPathOnRoots=false
 showToolbar=true
 sortRole=0
 viewShade=81,49,95
+
+[kategit]
+lastExecutedGitCmds=git push origin main
 
 [lspclient]
 AllowedServerCommandLines=/usr/bin/bash-language-server start

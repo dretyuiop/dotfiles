@@ -2,6 +2,7 @@
 _k_friendly_name=Activity Manager
 switch-to-activity-02019a58-2c21-46da-9814-ef4a77dc61ab=none,none,Switch to activity "Default"
 switch-to-activity-066c2716-a80a-4b9a-8db7-38de967ca498=none,none,Switch to activity "Default"
+switch-to-activity-0e4372e6-67e9-46df-b371-781b53409c8a=none,none,Switch to activity "Default"
 switch-to-activity-1877b71c-23b2-41f8-8b6b-4391bffb2d36=none,none,Switch to activity "Default"
 switch-to-activity-1936c494-e478-46cc-9321-04762c2fd5dd=none,none,Switch to activity "Default"
 switch-to-activity-1d7c952e-ecdd-4ead-87d3-7d26b253ea5b=none,none,Switch to activity "Default"
@@ -259,7 +260,7 @@ activate widget 4=none,none,Activate Pager Widget
 activate widget 40=none,none,Activate Audio Volume Widget
 activate widget 41=none,none,Activate Minimize All Windows Widget
 activate widget 52=none,none,Activate Icons-only Task Manager Widget
-activate widget 76=none,none,Activate Application Menu Widget
+activate widget 83=none,none,Activate Application Launcher Widget
 clear-history=none,,Clear Clipboard History
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatic Action Popup Menu
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
