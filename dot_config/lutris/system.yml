@@ -1,4 +1,4 @@
 system:
-  gamemode: false
+  gpu: card0
   mangohud: true
   prime: true

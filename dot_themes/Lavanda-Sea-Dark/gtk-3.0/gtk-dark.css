@@ -4479,8 +4479,9 @@ stackswitcher.linked:not(.vertical) > button:not(.suggested-action):not(.destruc
   box-shadow: none;
 }
 
-stackswitcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked,
-.stack-switcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked {
+stackswitcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked, stackswitcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked:hover,
+.stack-switcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked,
+.stack-switcher.linked:not(.vertical) > button:not(.suggested-action):not(.destructive-action):checked:hover {
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1), background-size 0ms, background-image 0ms, background-color 0ms, box-shadow 0ms;
   background-image: linear-gradient(to right, #297dff, #31c4b6);
   background-repeat: no-repeat;

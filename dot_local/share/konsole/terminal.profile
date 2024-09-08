@@ -36,4 +36,5 @@ KeyBindings=default
 [Terminal Features]
 BellMode=1
 BlinkingCursorEnabled=true
+PeekPrimaryKeySequence=
 VerticalLine=false

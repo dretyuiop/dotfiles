@@ -37,7 +37,7 @@ SortingChoice=CaseSensitiveSorting
 SplitView=true
 UseTabForSwitchingSplitView=true
 Version=202
-ViewPropsTimestamp=2024,2,7,18,41,13.243
+ViewPropsTimestamp=2024,4,30,17,57,42.273
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
@@ -82,7 +82,7 @@ ToolButtonStyle=IconOnly
 [ViewPropertiesDialog]
 1707x960 screen: Height=714
 1707x960 screen: Width=373
-1920x1080 screen: Height=546
+1920x1080 screen: Height=523
 1920x1080 screen: Width=418
 
 [kuick-copy]

@@ -2,7 +2,12 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [Annotations]
-annotationToolType=2
+annotationToolType=10
+ellipseStrokeColor=255,0,0
+rectangleStrokeColor=255,0,0
+textFont=Open Sans,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+textFontColor=255,255,255
+textShadow=false
 
 [General]
 autoSaveImage=true
@@ -10,18 +15,13 @@ clipboardGroup=PostScreenshotCopyImage
 rememberSelectionRect=Always
 
 [GuiConfig]
-selectionRect=473,122,662,835
+selectionRect=43,187,1877,233
 window-position=0,0
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/cch/Pictures/dmesg.png
-lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20240325_212843.png
+lastImageSaveAsLocation=file:///home/cch/Documents/opcg slides/private.png
+lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20240902_171809.png
 translatedScreenshotsFolder=Screenshots
-
-[KFileDialog Settings]
-Recent Files[$e]=dmesg.png,file:$HOME/Pictures/dmesg.png
-Recent URLs[$e]=file:$HOME/Pictures/
-detailViewIconSize=16
 
 [VideoSave]
 translatedScreencastsFolder=Screencasts

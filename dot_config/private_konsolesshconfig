@@ -1,0 +1,12 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][home-server]
+hostname=home-server
+identifier=home-server
+importedFromSshConfig=false
+port=22
+profileName=Don't Change
+sshkey=
+useSshConfig=true
+username=

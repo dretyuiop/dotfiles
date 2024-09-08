@@ -86,18 +86,6 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/cch/Music">
-  <title>Music</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="folder-music"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1679653089/6</ID>
-    <isSystemItem>true</isSystemItem>
-   </metadata>
-  </info>
- </bookmark>
  <bookmark href="file:///home/cch/Pictures">
   <title>Pictures</title>
   <info>
@@ -106,6 +94,18 @@
    </metadata>
    <metadata owner="http://www.kde.org">
     <ID>1679653089/7</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/cch/Music">
+  <title>Music</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-music"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1679653089/6</ID>
     <isSystemItem>true</isSystemItem>
    </metadata>
   </info>
@@ -389,6 +389,41 @@
    </metadata>
   </info>
  </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/dm_2d0</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>8c018f20-51f9-4029-a2c4-373eff35cf8e</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p2</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>11bd6381-d5c3-47f0-ac0e-a65a1979fec5</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:08.3/0000:35:00.3/usb7/7-1</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>ffdf-f403</uuid>
+   </metadata>
+  </info>
+ </separator>
  <bookmark href="kdeconnect://178fd246_09e8_4ecf_ba07_98e186864608/">
   <title>POCO X3 Pro</title>
   <info>
@@ -396,7 +431,7 @@
     <bookmark:icon name="kdeconnect"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1714226976/0</ID>
+    <ID>1725802534/2</ID>
    </metadata>
   </info>
  </bookmark>

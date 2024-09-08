@@ -10,14 +10,10 @@ DefaultProfile=terminal.profile
 [General]
 ConfigVersion=1
 
-[KFileDialog Settings]
-Recent Files[$e]=ryzenadj-time-start.txt,file:$HOME/.ssh/id_rsa
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/.ssh/,file:$HOME/Documents/,file:$HOME/
-detailViewIconSize=16
-
 [KonsoleWindow]
 FocusFollowsMouse=true
 ShowWindowTitleOnTitleBar=true
+UseSingleInstance=true
 
 [MainWindow]
 1280x720 screen: Window-Maximized=true
@@ -83,9 +79,6 @@ eDP-2 Height 1920x1080 eDP-2=554
 eDP-2 Width 1920x1080 eDP-2=911
 eDP-2 XPosition 1920x1080 eDP-2=504
 eDP-2 YPosition 1920x1080 eDP-2=248
-
-[Notification Messages]
-CloseAllEmptyTabs=true
 
 [SaveHistory Settings]
 Recent URLs[$e]=file:$HOME/Desktop

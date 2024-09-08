@@ -28,7 +28,7 @@ EveningBeginFixed=1900
 LatitudeAuto=3.15
 LongitudeAuto=101.64
 MorningBeginFixed=0800
-NightTemperature=4000
+NightTemperature=3700
 
 [Plugins]
 applicationswitcherEnabled=true
@@ -73,6 +73,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][76692f6f-9699-514b-8b92-2f2e0dd1e894]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][830fec20-7af2-5cca-8398-7563c97099b9]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][a3d991e5-e4d6-5b87-b0c7-d6949c612be9]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -85,9 +88,18 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][e688eb74-7230-5d02-a5e0-3b38a54bc04e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][eb88bec1-5c63-5e92-9f36-5d8345ada1bc]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][f69a4a8f-4c4a-5ab1-97a2-2b05cb2e6b7e]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Wayland]
 InputMethod[$e]=/usr/share/applications/fcitx5-wayland-launcher.desktop
 VirtualKeyboardEnabled=true
+
+[Xwayland]
+Scale=1
 
 [org.kde.kdecoration2]
 BorderSize=None

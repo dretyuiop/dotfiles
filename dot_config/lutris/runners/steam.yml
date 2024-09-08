@@ -1,3 +1,4 @@
 steam:
   args: -silent
-system: {}
+system:
+  pulse_latency: false
