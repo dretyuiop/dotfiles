@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 mkdir -p ~/Git
 mkdir -p ~/Games

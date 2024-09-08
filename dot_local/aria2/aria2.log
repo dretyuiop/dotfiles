@@ -5078,3 +5078,14 @@ Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c248397
   -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
 2024-09-08 00:31:10.041732 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
 2024-09-08 00:32:10.326872 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 00:45:53.369315 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-09 00:45:53.373175 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 00:46:38.642535 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-09 00:46:38.642842 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-09 00:46:38.642863 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-09 00:46:38.648962 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-09 00:46:38.648984 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-09 00:47:39.581064 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 00:49:22.593590 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/LavandaSea.tar.gz
