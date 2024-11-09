@@ -167,17 +167,6 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="smb://192.168.1.192/server">
-  <title>server</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="network-workgroup"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1693724127/0</ID>
-   </metadata>
-  </info>
- </bookmark>
  <bookmark href="trash:/">
   <title>Trash</title>
   <info>
@@ -424,4 +413,59 @@
    </metadata>
   </info>
  </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>eef7-ec8e</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>b63d-89c5</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sda2</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>223c-f3f8</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:08.3/0000:35:00.4/usb9/9-1</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/fuse.sshfs/run/user/1000/26719c63_ae9f_4ba4_b813_9bed816fd7ca</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>true</IsHidden>
+   </metadata>
+  </info>
+ </separator>
+ <bookmark href="kdeconnect://26719c63_ae9f_4ba4_b813_9bed816fd7ca/">
+  <title>POCO F6</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="kdeconnect"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1731141218/1</ID>
+   </metadata>
+  </info>
+ </bookmark>
 </xbel>

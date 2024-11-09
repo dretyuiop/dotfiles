@@ -3,4 +3,4 @@ baloosearchEnabled=true
 browserhistoryEnabled=true
 
 [Plugins][Favorites]
-plugins=krunner_systemsettings,krunner_services
+plugins=krunner_sessions,krunner_systemsettings,krunner_services

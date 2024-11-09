@@ -128,4 +128,9 @@
             
         ]
     },
+    "python.defaultInterpreterPath": "/home/cch/Documents/python/zlib",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "vsix.sources": {
+        
+    },
 }

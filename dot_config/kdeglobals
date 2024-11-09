@@ -136,13 +136,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=978,425
-History Items[$e]=file:$HOME/Git,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git/HeroicGamesLauncher/src,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Games/Steam,file:$HOME/Documents,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Downloads,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME,file:$HOME/Games/OPTCG-dev,file:$HOME/Games/OPTCG-dev/wine-prefix,file:$HOME/Games/Dishonored,file:$HOME/Games/Dishonored,file:$HOME/Videos,file:$HOME/Documents/Group-Assignment,file:$HOME/Games/Unity/test,file:$HOME/Games/Unity/Group-Assignment,file:$HOME/Games/Unity/Test,file:$HOME/Games/Unity/Game-Project,file:$HOME/Games/Unity/rpg,file:$HOME/Games/Unity/RPG Assignment,file:$HOME/Games/Unity/RPG,file:$HOME/Games/Unity/Assignment2_vers1,file:$HOME/Games/Unity,file:$HOME/Games/Assignment2_vers1,file:$HOME/Games,file:$HOME/Games/Mahjong Soul,file:$HOME/Nextcloud/Code/python,file:$HOME/Nextcloud/Code/C++,file:$HOME/Nextcloud/Code/C++,file:$HOME/Games/game-dev,file:$HOME/Games,file:$HOME/Nextcloud/School/Verification and Validation/Assignment 2,file:$HOME/Nextcloud/Code/C++,file:$HOME/Nextcloud/Code/C++,file:$HOME/.local/share/Trash,file:$HOME/.local,file:$HOME/Downloads,file:$HOME/Git/DesktopUI,file:$HOME/Games/Darkest Dungeon 2/wineprefix,file:$HOME/Nextcloud/Code/Work/product-calculator
+DirSelectDialog Size=1920,1002
+History Items[$e]=file:$HOME/Nextcloud/Code/python,file:$HOME,file:///run/media/cch/Ventoy,file:$HOME/Games/Steam,file:$HOME/Games/Steam/steamapps,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git/HeroicGamesLauncher/src,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Games/Steam,file:$HOME/Documents,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Downloads,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME,file:$HOME/Games/OPTCG-dev,file:$HOME/Games/OPTCG-dev/wine-prefix,file:$HOME/Games/Dishonored,file:$HOME/Games/Dishonored,file:$HOME/Videos,file:$HOME/Documents/Group-Assignment,file:$HOME/Games/Unity/test,file:$HOME/Games/Unity/Group-Assignment,file:$HOME/Games/Unity/Test,file:$HOME/Games/Unity/Game-Project,file:$HOME/Games/Unity/rpg,file:$HOME/Games/Unity/RPG Assignment,file:$HOME/Games/Unity/RPG,file:$HOME/Games/Unity/Assignment2_vers1,file:$HOME/Games/Unity,file:$HOME/Games/Assignment2_vers1,file:$HOME/Games,file:$HOME/Games/Mahjong Soul,file:$HOME/Nextcloud/Code/python,file:$HOME/Nextcloud/Code/C++,file:$HOME/Nextcloud/Code/C++,file:$HOME/Games/game-dev,file:$HOME/Games
 
 [General]
 AccentColor=0,0,0,0
 BrowserApplication=brave-browser.desktop
-ColorSchemeHash=4a48bd34ba53d580d8594cb0216221e77518509f
+ColorSchemeHash=babca25f3a5cf7ece26a85de212ab43d0a141257
 LastUsedCustomAccentColor=137,128,250
 Name=Breeze Dark
 UseSystemBell=true
@@ -182,10 +182,10 @@ Show Inline Previews=false
 Show Preview=false
 Show Speedbar=true
 Show hidden files=true
-Sort by=Date
+Sort by=Name
 Sort directories first=true
 Sort hidden files last=true
-Sort reversed=true
+Sort reversed=false
 Speedbar Width=138
 View Style=DetailTree
 

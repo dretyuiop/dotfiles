@@ -95,6 +95,7 @@ Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Text Font=JetBrainsMono Nerd Font,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font Features=
 Word Wrap Marker=false
 
 [KTextEditor View]
@@ -113,7 +114,9 @@ Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
 Dynamic Wrap not at word boundaries=false
+Enable Accessibility=true
 Enable Tab completion=false
+Enter To Insert Completion=true
 Fold First Line=false
 Folding Bar=true
 Folding Preview=true
@@ -133,7 +136,7 @@ Scroll Bar Mini Map Width=60
 Scroll Bar MiniMap=true
 Scroll Bar Preview=true
 Scroll Past End=false
-Search/Replace Flags=140
+Search/Replace Flags=141
 Shoe Line Ending Type in Statusbar=false
 Show Documentation With Completion=true
 Show File Encoding=true
@@ -158,8 +161,8 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=.,Noto Sans,example.com,,192.168.1.7,authelia_net,chewfamily.party,container,$container,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,11,7,10,12,9,writers-preference,srv,Moving-scripts,Important!!/Scripts,hwmon6
-Search History=d,https,app,$VOLUMES,derp,apply,fps,pulse,fit,jail,mount_jail_tree,http,input,netbird,port,ssh,appindic,cfg,img,e1dpPbR46FQ,torrentdownload,Enter,0x1128b,_0x1128b5,backuptransportclient,su,$CONFIG_FILE,kuketz,lib32,headerbar,systemctl,/usr/lib,update,cores,/co,/usr,core,menu_show_core_updater,session,rootless,add,op_,chezmoi,SF Pro,chewfamily.party,#,192.168.1.6,chewfamily.paty,caddy-docker-proxy,$APPDATA,example.com,podman,upnp,install,pod,$,admind,bin,encod,h2,hostname,postgres,v3,mutate,print,best fitne,stop_criteria,num_genes,fitness,get_initial_values(),fitness_func,sol_per,swap,swap_2,tournam,super,15,12,8,5,readers-preference,isinbox,(isInboxZero\\, isWindowBlurred) ,a(isInboxZero\\, isWindowBlurred) ,services,pdf,arc,reader,qt6_found,found,<=,Focus,focus,FUNCTION,time,fisher,user,trans,power,np.int
+Replace History=docker-compose,podman,.,Noto Sans,example.com,,192.168.1.7,authelia_net,chewfamily.party,container,$container,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,11,7,10,12,9,writers-preference,srv,Moving-scripts,Important!!/Scripts,hwmon6
+Search History=$args,meow,adb,podman-compose,podman,docker,dsn,relay,d,https,app,$VOLUMES,derp,apply,fps,pulse,fit,jail,mount_jail_tree,http,input,netbird,port,ssh,appindic,cfg,img,e1dpPbR46FQ,torrentdownload,Enter,0x1128b,_0x1128b5,backuptransportclient,su,$CONFIG_FILE,kuketz,lib32,headerbar,systemctl,/usr/lib,update,cores,/co,/usr,core,menu_show_core_updater,session,rootless,add,op_,chezmoi,SF Pro,chewfamily.party,#,192.168.1.6,chewfamily.paty,caddy-docker-proxy,$APPDATA,example.com,upnp,install,pod,$,admind,bin,encod,h2,hostname,postgres,v3,mutate,print,best fitne,stop_criteria,num_genes,fitness,get_initial_values(),fitness_func,sol_per,swap,swap_2,tournam,super,15,12,8,5,readers-preference,isinbox,(isInboxZero\\, isWindowBlurred) ,a(isInboxZero\\, isWindowBlurred) ,services,pdf,arc,reader,qt6_found,found,<=,Focus,focus
 
 [Konsole]
 AutoSyncronize=true

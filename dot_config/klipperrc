@@ -1,5 +1,4 @@
 [General]
 ActionsInfoMessageShown=false
-IgnoreImages=false
-SyncClipboards=true
-Version=5.27.9
+SelectionTextOnly=false
+Version=6.2.2

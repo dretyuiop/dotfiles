@@ -5089,3 +5089,800 @@ Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c248397
 2024-09-09 00:46:38.648984 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
 2024-09-09 00:47:39.581064 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
 2024-09-09 00:49:22.593590 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/LavandaSea.tar.gz
+2024-09-09 14:24:46.916779 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-09 14:24:46.918563 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 14:25:21.098326 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-09 14:25:21.098780 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-09 14:25:21.098800 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-09 14:25:21.104857 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-09 14:25:21.104879 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-09 14:26:21.407435 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 22:07:50.203635 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-09 22:07:50.207698 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-09 22:08:24.662900 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-09 22:08:24.663330 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-09 22:08:24.663357 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-09 22:08:24.669600 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-09 22:08:24.669620 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-09 22:09:26.399651 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-10 01:22:52.590648 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/premium_photo-1661277679965-9db1104e890f.avif
+2024-09-12 00:05:18.179968 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/stirling-pdf.svg
+2024-09-12 18:39:50.769463 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-12 18:39:51.719962 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/tamasfe.even-better-toml-0.19.2.vsix
+2024-09-12 18:40:51.390418 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-12 18:43:33.286261 [NOTICE] [RequestGroup.cc:777] File already exists. Renamed to /home/cch/Downloads/tamasfe.even-better-toml-0.19.2.1.vsix.
+2024-09-12 18:43:33.972050 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/tamasfe.even-better-toml-0.19.2.1.vsix
+2024-09-13 20:34:22.953344 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/notify_push-x86_64-unknown-linux-musl
+2024-09-13 20:50:12.214905 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/test_client-x86_64-unknown-linux-musl
+2024-09-13 21:21:37.221201 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-13 21:21:37.225260 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-13 21:25:04.233055 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-13 21:25:04.233385 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-13 21:25:04.233406 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-13 21:25:04.239557 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-13 21:25:04.239586 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-13 21:26:04.513739 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-14 00:58:45.164454 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/zlibrary-app-latest.apk
+2024-09-14 01:00:40.781923 [NOTICE] [RequestGroup.cc:251] GID#939daff70dafac14 - Download has already completed: /home/cch/Downloads/zlibrary-app-latest.apk
+2024-09-14 01:00:41.786514 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/zlibrary-app-latest.apk
+2024-09-14 03:07:55.169651 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-14 03:07:55.171785 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-14 07:49:31.317018 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-14 07:49:31.317471 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-14 07:49:31.317492 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-14 07:49:31.324173 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-14 07:49:31.324195 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-14 07:50:31.496010 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-14 11:43:37.076374 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/error.log
+2024-09-14 20:17:28.131065 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/eng.traineddata
+2024-09-14 20:17:29.789985 [NOTICE] [RequestGroup.cc:251] GID#4c7e6118aea8cb30 - Download has already completed: /home/cch/Downloads/eng.traineddata
+2024-09-14 20:17:29.790799 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/eng.traineddata
+2024-09-15 09:15:19.596697 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/docker-compose.yml
+2024-09-15 09:17:06.912396 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/example.env
+2024-09-15 17:03:48.204461 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-15 17:03:48.207060 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-15 17:05:10.889998 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-15 17:05:10.890349 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-15 17:05:10.890369 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-15 17:05:10.898666 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-15 17:05:10.898704 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-15 17:06:10.981125 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-15 21:13:51.163690 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-15 21:13:51.167290 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-15 21:14:23.068427 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-15 21:14:23.068826 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-15 21:14:23.068855 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-15 21:14:23.075134 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-15 21:14:23.075162 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-15 21:15:22.986097 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-16 01:57:03.124475 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-16 01:57:03.129164 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-16 17:09:30.330486 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-16 17:09:30.330809 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-16 17:09:30.330828 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-16 17:09:30.337502 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-16 17:09:30.337539 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-16 17:10:29.465491 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-17 01:00:35.788810 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-17 01:00:35.792724 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-17 14:38:00.160823 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-17 14:38:00.161209 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-17 14:38:00.161235 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-17 14:38:00.167277 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-17 14:38:00.167302 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-17 14:38:59.250976 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-17 16:58:48.763621 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-17 16:58:48.766830 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-19 19:31:16.507552 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-19 19:31:16.513501 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-19 19:31:16.513538 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-19 19:31:16.521544 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-19 19:31:16.521582 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-19 19:32:12.514621 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-19 19:55:12.781517 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-19 19:55:12.785137 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-19 19:57:18.081596 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-19 19:57:18.081891 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-19 19:57:18.081912 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-19 19:57:18.087895 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-19 19:57:18.087917 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-19 19:58:17.977875 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-19 23:36:40.590482 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-19 23:36:40.591653 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-20 18:01:59.150940 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-20 18:01:59.151435 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-20 18:01:59.151459 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-20 18:01:59.157639 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-20 18:01:59.157667 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-20 18:02:58.638596 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-20 19:05:07.911148 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/PrismLauncher-Linux-x86_64.AppImage
+2024-09-21 04:44:36.748956 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-21 04:44:36.752529 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-21 20:34:13.333452 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-21 20:34:13.333970 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-21 20:34:13.334004 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-21 20:34:13.340112 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-21 20:34:13.340135 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-21 20:35:12.765522 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-21 21:26:59.777408 [NOTICE] [HttpResponse.cc:168] CUID#14 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1076605/mod_resource/content/1/092023%20Final%20Year%20Project%20%28FYP-1%29%20-%20General%20Guidelines%20and%20Timeline.pdf
+2024-09-21 21:26:59.885555 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/092023 Final Year Project (FYP-1) - General Guidelines and Timeline.pdf
+2024-09-21 21:27:01.895936 [NOTICE] [HttpResponse.cc:168] CUID#15 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1076607/mod_resource/content/1/092023%20Supervisor%20Confirmation%20Form.pdf
+2024-09-21 21:27:01.970321 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/092023 Supervisor Confirmation Form.pdf
+2024-09-21 21:27:07.558179 [NOTICE] [HttpResponse.cc:168] CUID#16 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1090638/mod_resource/content/1/Lecturers%20Research%20Specialization%20September%202024.xlsx
+2024-09-21 21:27:07.620979 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Lecturers Research Specialization September 2024.xlsx
+2024-09-22 00:46:52.868423 [NOTICE] [RequestGroup.cc:777] File already exists. Renamed to /home/cch/Downloads/compose.1.yaml.
+2024-09-22 00:46:52.873799 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/compose.1.yaml
+2024-09-22 02:32:42.317229 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-22 02:32:42.322617 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-22 15:21:32.366469 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-22 15:21:32.366925 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-22 15:21:32.366946 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-22 15:21:32.373631 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-22 15:21:32.373659 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-22 15:22:32.374918 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-22 15:49:44.743687 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/diun.sh
+2024-09-22 22:27:52.845055 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Dockerfile
+2024-09-22 22:32:42.324011 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/out9.webm
+2024-09-22 22:32:55.517746 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-22 22:32:55.790844 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/out8.webm
+2024-09-22 22:33:55.528653 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-23 00:22:41.321336 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-23 00:22:41.325834 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-23 08:09:23.386471 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-23 08:09:23.386791 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-23 08:09:23.386811 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-23 08:09:23.392845 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-23 08:09:23.392867 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-23 08:10:23.223160 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-23 08:54:20.713325 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-23 08:54:20.716937 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-23 09:50:39.683463 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-23 09:50:39.683813 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-23 09:50:39.683835 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-23 09:50:39.689768 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-23 09:50:39.689789 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-23 09:51:39.974772 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-23 10:49:28.159301 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-23 10:49:28.162673 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-24 16:43:09.771266 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-24 16:43:09.771602 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-24 16:43:09.771623 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-24 16:43:09.777962 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-24 16:43:09.777985 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-24 16:44:07.473331 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-24 16:45:32.736772 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/HMCL-3.5.9.252.exe
+2024-09-24 16:46:15.953594 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/HMCL-3.5.9.252.sh
+2024-09-24 16:55:10.423164 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/FjordLauncher-Linux-x86_64.AppImage
+2024-09-24 16:57:46.651687 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/FjordLauncher-Linux-x86_64.AppImage
+2024-09-24 17:07:56.391250 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/FjordLauncher-Linux-x86_64.AppImage
+2024-09-24 17:09:58.576738 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/index.flatpakrepo
+2024-09-24 17:10:10.767365 [NOTICE] [RequestGroup.cc:251] GID#0d280144de421bd3 - Download has already completed: /home/cch/Downloads/index.flatpakrepo
+2024-09-24 17:10:10.767479 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/index.flatpakrepo
+2024-09-24 17:15:45.348327 [NOTICE] [HttpResponse.cc:168] CUID#83 - Redirecting to https://dl.flathub.org/repo/flathub.flatpakrepo
+2024-09-24 17:15:45.382241 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/flathub.flatpakrepo
+2024-09-24 17:26:45.535845 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-24 17:26:45.539073 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-24 17:27:22.437614 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-24 17:27:22.437954 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-24 17:27:22.437974 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-24 17:27:22.443898 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-24 17:27:22.443919 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-24 17:28:22.759916 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-24 17:54:56.567856 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/2024_09_24_--beach-waves---rce-22783934.png
+2024-09-27 17:23:19.675106 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-27 17:23:19.678618 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-28 18:07:09.646796 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-28 18:07:09.647260 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-28 18:07:09.647278 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-28 18:07:09.653206 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-28 18:07:09.653236 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-28 18:08:05.061790 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-28 22:13:53.662141 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/io.github.limo_app.limo.flatpakref
+2024-09-28 22:37:41.866473 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/NexusMods.App.x86_64.AppImage
+2024-09-28 22:41:33.524442 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/NexusMods.App-0.6.1-1.linux-x64.zip
+2024-09-28 23:30:07.145174 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-28 23:30:07.145574 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-28 23:30:07.145595 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-28 23:30:07.151660 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-28 23:30:07.151681 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-28 23:31:07.448327 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 00:17:06.421327 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/adb.php
+2024-09-29 00:18:17.117611 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/miflash_unlock-en-6.5.224.28.zip
+2024-09-29 00:18:32.072945 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/platform-tools-latest-linux.zip
+2024-09-29 00:22:11.118279 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 00:22:11.121700 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 00:23:42.796378 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-29 00:23:42.796905 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-29 00:23:42.796939 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-29 00:23:42.804141 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-29 00:23:42.804172 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-29 00:24:43.573282 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 00:45:52.806182 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/手机安卓14设置.apk
+2024-09-29 01:04:28.512379 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/bypass.php
+2024-09-29 01:13:01.935796 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/HyperSploit-Linux
+2024-09-29 01:18:25.414297 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 01:18:25.415950 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 01:18:58.046760 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-29 01:18:58.047206 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-29 01:18:58.047227 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-29 01:18:58.053406 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-29 01:18:58.053428 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-29 01:19:58.879567 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 02:11:11.348921 [NOTICE] [RequestGroup.cc:251] GID#5552f8998471a1c4 - Download has already completed: /home/cch/Downloads/miflash_unlock-en-6.5.224.28.zip
+2024-09-29 02:11:13.003030 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/miflash_unlock-en-6.5.224.28.zip
+2024-09-29 02:11:56.472585 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/XMT2_Linux_20.7.28.run
+2024-09-29 02:50:42.664541 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/ventoy_vhdboot.zip
+2024-09-29 02:58:59.822113 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 02:58:59.826249 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 03:09:23.207398 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-29 03:09:23.207907 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-29 03:09:23.207943 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-29 03:09:23.214562 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-29 03:09:23.214592 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-29 03:10:24.189614 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 03:32:53.429963 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 03:32:53.435623 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 15:08:47.139173 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-29 15:08:47.139572 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-29 15:08:47.139595 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-29 15:08:47.145525 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-29 15:08:47.145545 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-29 15:09:46.697098 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 17:05:35.866220 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Legend of Zelda, The_ Majora's Mask.zip
+2024-09-29 17:06:15.719616 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Zelda64Recompiled-v1.1.1-Linux-x64-AppImage.zip
+2024-09-29 17:07:36.932807 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Zelda64Recompiled-v1.1.1-Linux-x64.tar.gz
+2024-09-29 17:26:11.711263 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/applsci-12-10476-v3.pdf
+2024-09-29 18:15:38.451167 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 18:15:38.455239 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 18:20:02.267770 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-29 18:20:02.271720 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-29 18:20:02.271758 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-29 18:20:02.278867 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-29 18:20:02.278894 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-29 18:21:02.339957 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-29 23:25:30.086234 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-29 23:25:30.089905 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 22:36:16.335126 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-30 22:36:16.335627 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-30 22:36:16.335669 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-30 22:36:16.342303 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-30 22:36:16.342324 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-30 22:37:15.903676 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 23:00:06.317062 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-30 23:00:06.321251 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 23:01:43.413299 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-30 23:01:43.413786 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-30 23:01:43.413805 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-30 23:01:43.420027 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-30 23:01:43.420059 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-30 23:02:43.948414 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 23:13:00.845895 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-30 23:13:00.867294 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 23:21:52.477050 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-09-30 23:21:52.481507 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-09-30 23:21:52.481530 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-09-30 23:21:52.488770 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-09-30 23:21:52.488793 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-09-30 23:22:53.342262 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-09-30 23:41:41.923575 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-09-30 23:41:41.927711 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 20:04:25.297408 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-10-05 20:04:25.298181 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-05 20:04:25.298205 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-05 20:04:25.304925 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-10-05 20:04:25.304953 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-10-05 20:05:24.029431 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 21:12:05.157522 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 21:14:28.437026 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Win10_22H2_English_x64v1.iso
+2024-10-05 21:15:05.282167 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 21:32:00.786938 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-05 21:32:00.792969 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 21:34:08.640666 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2024-10-05 21:34:08.641103 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-05 21:34:08.641124 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-05 21:34:08.647193 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+Exception: [AbstractCommand.cc:351] errorCode=19 URI=https://ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com/cd/0/get/CXp7GKFgJCnjFi0g98fbkzSPWUxJcGgP5cBxiEH09jKnjihz5Bun7xK2h9e5Fap9Wg5k9K5TzV30bAaqN8O8KIqePLG5_MmbSxOCyoR6ksDzewU9IgRPsQ8Oz-oQhHgosDV-iNPmUbxj0wWen9WWfsnc52VKwX4-o9J3m8_ex-Uerf1wG3x8dmZuPsMx6rS9-ks/file?_download_id=1809375795602490375612737262692359158587482337683636865321979077&_notify_domain=www.dropbox.com&dl=1
+  -> [AbstractCommand.cc:799] errorCode=19 CUID#10 - Name resolution for ucbb1a2302c4c2483976d649dbd0.dl.dropboxusercontent.com failed:No address returned
+2024-10-05 21:34:08.647217 [NOTICE] [RequestGroupMan.cc:424] Download GID#b80f7d2f869afd77 not complete: /home/cch/Downloads/1.24a_Linux.zip
+2024-10-05 21:35:08.931651 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-05 21:44:16.697905 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 00:06:01.205454 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-06 00:06:01.205954 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-06 00:07:01.070305 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 01:25:48.448560 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-06 01:25:48.452797 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 01:51:11.677753 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-06 01:51:11.678127 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-06 01:52:11.296531 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 02:12:26.926940 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-06 02:12:26.930771 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 17:12:55.742839 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-06 17:12:55.743194 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-06 17:13:54.880769 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 17:29:25.214612 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-06 17:29:25.218269 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-06 20:40:48.388667 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-06 20:40:48.388977 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-06 20:41:47.196836 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-06 20:41:47.200737 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-15 14:05:44.808267 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-15 14:05:44.808576 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-15 14:06:43.368929 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-15 18:35:23.183154 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-15 18:35:23.183655 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-15 18:36:23.467005 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 01:27:19.577545 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-16 01:27:19.581407 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 17:18:10.639832 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-16 17:18:10.640335 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-16 17:19:09.518832 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 17:24:05.057227 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/spark-dwine-helper_5.6.4.5-5.3.14_all.deb
+2024-10-16 17:24:53.964302 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-16 17:24:53.967975 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 17:26:22.680501 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-16 17:26:22.680922 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-16 17:27:23.798076 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 18:40:32.882801 [ERROR] [AbstractCommand.cc:349] CUID#20 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 5484052480-6032457727/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:40:32.997884 [ERROR] [AbstractCommand.cc:349] CUID#29 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 8226078720-8772845567/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:41:03.217098 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-16 18:43:20.097973 [ERROR] [AbstractCommand.cc:349] CUID#19 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 5795479552-6032457727/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:44:40.621508 [ERROR] [AbstractCommand.cc:349] CUID#28 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 5361369088-5556404223/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:45:13.641223 [ERROR] [AbstractCommand.cc:349] CUID#25 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 5380243456-5556404223/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:45:32.095140 [ERROR] [AbstractCommand.cc:349] CUID#15 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2602565632-2742026239/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:46:16.280893 [ERROR] [AbstractCommand.cc:349] CUID#21 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2618294272-2742026239/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:46:50.112094 [ERROR] [AbstractCommand.cc:349] CUID#24 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2634022912-2742026239/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:48:01.354561 [ERROR] [AbstractCommand.cc:349] CUID#22 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 6272581632-6296698879/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:48:15.055590 [ERROR] [AbstractCommand.cc:349] CUID#26 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 6275727360-6296698879/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:48:15.707995 [ERROR] [AbstractCommand.cc:349] CUID#13 - Download aborted. URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-nvidia-open-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2661285888-2672820223/8772845568, Response: 0-8772845567/8772845568
+2024-10-16 18:48:25.008168 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/bazzite-nvidia-open-stable.iso
+2024-10-16 18:49:03.804711 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-17 00:19:27.257722 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-17 00:19:27.261706 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:36:44.945683 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-20 20:36:44.946063 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-20 20:37:38.545065 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:38:34.807086 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Dell_G15_5525_1.18.0.exe
+2024-10-20 20:42:48.258310 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/download
+2024-10-20 20:43:08.078525 [ERROR] [AbstractCommand.cc:349] CUID#64 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1987051520-2139095039/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.825606 [ERROR] [AbstractCommand.cc:349] CUID#52 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 611319808-764411903/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.881476 [ERROR] [AbstractCommand.cc:349] CUID#53 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1833959424-2139095039/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.895432 [ERROR] [AbstractCommand.cc:349] CUID#54 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 306184192-459276287/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.898520 [ERROR] [AbstractCommand.cc:349] CUID#60 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1375731712-1528823807/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.914378 [ERROR] [AbstractCommand.cc:349] CUID#51 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1222639616-1375731711/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:08.924363 [ERROR] [AbstractCommand.cc:349] CUID#63 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1681915904-1833959423/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.035761 [ERROR] [AbstractCommand.cc:349] CUID#61 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 459276288-611319807/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.049341 [ERROR] [AbstractCommand.cc:349] CUID#58 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 153092096-306184191/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.063321 [ERROR] [AbstractCommand.cc:349] CUID#57 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2139095040-2292187135/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.296581 [ERROR] [AbstractCommand.cc:349] CUID#56 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1528823808-1681915903/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.315467 [ERROR] [AbstractCommand.cc:349] CUID#62 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1070596096-1222639615/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.325736 [ERROR] [AbstractCommand.cc:349] CUID#65 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2292187136-2443546315/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.326974 [ERROR] [AbstractCommand.cc:349] CUID#59 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 764411904-917503999/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:09.352508 [ERROR] [AbstractCommand.cc:349] CUID#55 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/crdroid/peridot/10.x/crDroidAndroid-14.0-20240914-peridot-v10.8.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 917504000-1070596095/2443546316, Response: 0-2443546315/2443546316
+2024-10-20 20:43:41.516234 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:45:03.623361 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/crDroidAndroid-14.0-20241020-peridot-v10.9.zip
+2024-10-20 20:45:41.355258 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:50:13.930547 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/crDroidAndroid-14.0-20240914-peridot-v10.8.zip
+2024-10-20 20:50:41.348014 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:51:52.387214 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-20 20:51:52.390646 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:53:12.809140 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-20 20:53:12.809592 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-20 20:54:13.107106 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:56:13.810630 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:57:24.373801 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/recovery.img
+2024-10-20 20:58:13.844959 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 20:59:02.441698 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/vendor_boot.img
+2024-10-20 20:59:14.779674 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-20 21:54:15.589086 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/app-release.apk
+2024-10-20 21:58:40.035288 [NOTICE] [RequestGroup.cc:251] GID#0a5400e687c24811 - Download has already completed: /home/cch/Downloads/app-release.apk
+2024-10-20 21:58:40.035405 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/app-release.apk
+2024-10-20 22:35:12.247745 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-20 22:35:12.251338 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-21 01:11:34.608613 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-21 01:11:34.609047 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-21 01:12:34.905895 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-21 01:28:10.480985 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/RealKing-V3-iNSANE-Container.zip
+2024-10-21 02:27:42.651869 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-21 02:27:42.655985 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-22 16:52:04.425369 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-22 16:52:04.425713 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-22 16:53:01.771809 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-22 16:58:34.643560 [ERROR] [AbstractCommand.cc:349] CUID#22 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 159383552-317718527/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.645194 [ERROR] [AbstractCommand.cc:349] CUID#24 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 794820608-953155583/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.647811 [ERROR] [AbstractCommand.cc:349] CUID#20 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 953155584-1111490559/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.649487 [ERROR] [AbstractCommand.cc:349] CUID#21 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2222981120-2381316095/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.651226 [ERROR] [AbstractCommand.cc:349] CUID#25 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1111490560-1269825535/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.651378 [ERROR] [AbstractCommand.cc:349] CUID#28 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2064646144-2222981119/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.668805 [ERROR] [AbstractCommand.cc:349] CUID#18 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 317718528-477102079/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.673245 [ERROR] [AbstractCommand.cc:349] CUID#29 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2381316096-2539310487/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.674635 [ERROR] [AbstractCommand.cc:349] CUID#15 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1269825536-1429209087/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.677363 [ERROR] [AbstractCommand.cc:349] CUID#19 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1587544064-1746927615/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.687002 [ERROR] [AbstractCommand.cc:349] CUID#23 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 477102080-635437055/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.707709 [ERROR] [AbstractCommand.cc:349] CUID#17 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1905262592-2064646143/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.716545 [ERROR] [AbstractCommand.cc:349] CUID#27 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1746927616-1905262591/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:34.770215 [ERROR] [AbstractCommand.cc:349] CUID#26 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1429209088-1587544063/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:58:35.220737 [ERROR] [AbstractCommand.cc:349] CUID#16 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/risingos-official/5.x/VANILLA/peridot/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 635437056-2539310487/2539310488, Response: 0-2539310487/2539310488
+2024-10-22 16:59:03.777854 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-22 17:03:44.997852 [NOTICE] [RequestGroupMan.cc:424] Download GID#66c74543f7ce386c not complete: /home/cch/Downloads/RisingOS-5.0-FINAL-20240825-VANILLA-OFFICIAL-peridot-ota.zip
+2024-10-22 17:03:46.041992 [NOTICE] [RequestGroup.cc:251] GID#e87da19b6761d60c - Download has already completed: /home/cch/Downloads/recovery.img
+2024-10-22 17:03:46.042123 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/recovery.img
+2024-10-22 17:03:46.991450 [NOTICE] [RequestGroup.cc:251] GID#a01158682b5f80c6 - Download has already completed: /home/cch/Downloads/vendor_boot.img
+2024-10-22 17:03:46.991572 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/vendor_boot.img
+2024-10-22 17:04:04.778400 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-22 22:42:51.062784 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-22 22:42:51.063298 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-22 22:43:51.363222 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-22 23:25:05.836168 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/ReZygisk-v1.0.0-360-123d113-release.zip
+2024-10-22 23:25:22.367869 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Zygisk-Assistant-v2.1.3-7b35d36-release.zip
+2024-10-22 23:25:40.075551 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/LSPosed-v1.10.1-7115-zygisk-release.zip
+2024-10-22 23:27:53.484817 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/MulchSystemWebViewOverlayMagisk.zip
+2024-10-22 23:28:11.837247 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/microG_Installer_Revived.zip
+2024-10-23 00:37:32.255400 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-23 00:37:32.266270 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-23 12:42:57.619463 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-23 12:42:57.619746 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-23 12:43:55.721428 [ERROR] [AbstractCommand.cc:349] CUID#23 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 487587840-650117119/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.725504 [ERROR] [AbstractCommand.cc:349] CUID#21 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2273312768-2435842047/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.729504 [ERROR] [AbstractCommand.cc:349] CUID#29 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2435842048-2596902399/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.738670 [ERROR] [AbstractCommand.cc:349] CUID#15 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1299185664-1461714943/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.738819 [ERROR] [AbstractCommand.cc:349] CUID#16 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 650117120-812646399/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.742738 [ERROR] [AbstractCommand.cc:349] CUID#19 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 975175680-1137704959/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.744397 [ERROR] [AbstractCommand.cc:349] CUID#20 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1624244224-1786773503/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.745054 [ERROR] [AbstractCommand.cc:349] CUID#26 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 2110783488-2273312767/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.746497 [ERROR] [AbstractCommand.cc:349] CUID#27 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1137704960-1299185663/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.747405 [ERROR] [AbstractCommand.cc:349] CUID#24 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 812646400-975175679/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.747554 [ERROR] [AbstractCommand.cc:349] CUID#25 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1461714944-1624244223/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.747764 [ERROR] [AbstractCommand.cc:349] CUID#22 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 162529280-325058559/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.749367 [ERROR] [AbstractCommand.cc:349] CUID#17 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1948254208-2110783487/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.752733 [ERROR] [AbstractCommand.cc:349] CUID#18 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 325058560-487587839/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:55.754539 [ERROR] [AbstractCommand.cc:349] CUID#28 - Download aborted. URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://cyfuture.dl.sourceforge.net/project/optimustestbuilds/crDroidAndroid-14.0-20241021-peridot-v10.9.zip?viasf=1
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1786773504-1948254207/2596902400, Response: 0-2596902399/2596902400
+2024-10-23 12:43:56.970419 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-23 12:49:29.608070 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/crDroidAndroid-14.0-20241021-peridot-v10.9.zip
+2024-10-23 12:49:57.044318 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-23 13:00:34.651328 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/com.android.vending_43.2.16-31_0_PR_686207179-84321630_minAPI31(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
+2024-10-23 13:13:17.549787 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Zygisk-Next-1.2.2-436-4d54a7c-release.zip
+2024-10-23 13:16:34.585850 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/ReZygisk-v1.0.0-268-1fd171c-release.zip
+2024-10-23 13:56:22.485699 [NOTICE] [HttpResponse.cc:168] CUID#84 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1090970/mod_resource/content/1/Chapter%201.pdf
+2024-10-23 13:56:22.596978 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Chapter 1.pdf
+2024-10-23 13:56:24.514450 [NOTICE] [HttpResponse.cc:168] CUID#85 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1091913/mod_resource/content/1/Chapter%202.pdf
+2024-10-23 13:56:24.605565 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Chapter 2.pdf
+2024-10-23 13:56:26.657581 [NOTICE] [HttpResponse.cc:168] CUID#86 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1095351/mod_resource/content/1/Chapter%203.pdf
+2024-10-23 13:56:26.734432 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Chapter 3.pdf
+2024-10-23 13:56:28.292704 [NOTICE] [HttpResponse.cc:168] CUID#87 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1099286/mod_resource/content/1/Chapter%204.pdf
+2024-10-23 13:56:28.384310 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Chapter 4.pdf
+2024-10-23 13:56:30.299006 [NOTICE] [HttpResponse.cc:168] CUID#88 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1101121/mod_resource/content/1/Chapter%205.pdf
+2024-10-23 13:56:30.398419 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Chapter 5.pdf
+2024-10-23 14:12:44.946246 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-23 14:12:44.950393 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-25 20:42:22.577673 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-25 20:42:22.578136 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-25 20:43:26.430526 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-25 21:46:38.857482 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-25 21:46:38.862456 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-27 15:21:00.668045 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-27 15:21:00.668537 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-27 15:22:01.119905 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-27 15:22:28.412832 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/5.1 Description of Coursework (Assignment 1).pdf
+2024-10-27 15:43:58.635263 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/BetterDiscord-Linux.AppImage
+2024-10-27 21:27:55.440943 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-27 21:27:55.441551 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-27 21:28:10.961039 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-27 21:28:10.962583 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-27 21:28:41.833384 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-27 21:28:41.833807 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-27 21:29:42.612185 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-28 00:06:51.236023 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-28 00:06:51.236506 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-28 00:07:44.962537 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-28 00:07:44.966419 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-28 00:10:27.503330 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-28 00:10:27.503642 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-28 00:11:28.758670 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-28 00:14:24.241127 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-28 00:14:24.241430 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-28 00:15:23.683785 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-28 00:50:28.419003 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/watch.html
+2024-10-28 01:11:11.229768 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-28 01:11:11.246840 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-29 21:26:49.031039 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-29 21:26:49.031405 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-29 21:27:46.729267 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-30 00:54:02.385445 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-30 00:54:02.389791 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-30 22:34:36.819548 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-30 22:34:36.819896 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-30 22:35:36.696322 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 00:18:17.011527 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-31 00:18:17.016023 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 12:45:57.192307 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-31 12:45:57.192617 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-31 12:46:56.452473 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 13:06:29.401566 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-31 13:06:29.411315 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 13:06:59.526179 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-31 13:06:59.526488 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-31 13:07:59.817187 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 13:33:50.048293 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-31 13:33:50.048716 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-31 13:34:51.074611 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 13:40:32.123614 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-10-31 13:40:32.124039 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-10-31 13:41:32.367768 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-10-31 13:57:42.457299 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-10-31 13:57:42.460451 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-01 21:45:02.087841 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-01 21:45:02.088260 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-01 21:46:03.834658 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-02 00:26:38.156061 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-02 00:26:38.159673 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-02 12:45:24.215801 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-02 12:45:24.216147 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-02 12:46:24.461902 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-02 13:11:51.030597 [NOTICE] [RequestGroup.cc:777] File already exists. Renamed to /home/cch/Downloads/docker-compose.1.yml.
+2024-11-02 13:11:51.032218 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/docker-compose.1.yml
+2024-11-02 15:08:47.770264 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-02 15:08:47.781385 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-02 15:09:29.850942 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-02 15:09:29.851327 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-02 15:10:30.128610 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-02 15:29:26.892513 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/2014-853.pdf
+2024-11-02 15:39:42.243459 [NOTICE] [HttpResponse.cc:168] CUID#17 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1076608/mod_resource/content/3/042024%20Undergraduate%20FYP%20Proposal%20Form%20V4.docx
+2024-11-02 15:39:42.342756 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/042024 Undergraduate FYP Proposal Form V4.docx
+2024-11-02 15:46:04.992907 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Secure searchable encryption_ a survey -- Wang, Yunling; Wang, Jianfeng; Chen, Xiaofeng -- Journal of Communications and Information Networks, #4, 1, -- 10_1007_BF03391580 -- 958e587c0704a68709865fed9521741b -- Anna’s Archive.pdf
+2024-11-02 16:17:49.963339 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/app-release.apk
+2024-11-02 16:39:42.875785 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/OrangeFox-R11.2-Alpha-peridot.zip
+2024-11-02 17:24:39.944166 [NOTICE] [RequestGroup.cc:251] GID#b3a425f2a3a2d8a0 - Download has already completed: /home/cch/Downloads/recovery.img
+2024-11-02 17:24:41.126597 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/recovery.img
+2024-11-02 17:25:22.759358 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/recovery.img
+2024-11-02 21:17:31.733738 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-02 21:17:31.735046 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-03 14:58:21.018098 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-03 14:58:21.018501 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-03 14:59:23.691382 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-03 15:09:39.851975 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-03 15:09:39.870180 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-03 15:10:40.353516 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-03 15:10:40.353797 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-03 15:11:40.900495 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-03 23:07:24.014480 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-03 23:07:24.017717 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-04 20:22:44.616670 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-04 20:22:44.616987 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-04 20:23:44.057840 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-04 20:45:34.140001 [NOTICE] [RequestGroup.cc:777] File already exists. Renamed to /home/cch/Downloads/document.1.pdf.
+2024-11-04 20:45:34.169256 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/document.1.pdf
+2024-11-04 21:18:15.990156 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-04 21:22:20.612489 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/hir-21-102.pdf
+2024-11-04 21:23:17.325704 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-04 23:35:20.055598 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-04 23:35:20.058786 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-05 23:48:36.627305 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-05 23:48:36.627622 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-05 23:49:35.857165 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-06 01:08:01.969685 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-06 01:08:01.971091 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 01:10:14.110889 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-07 01:10:14.111162 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-07 01:11:12.998879 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 01:12:20.774009 [NOTICE] [RequestGroup.cc:777] File already exists. Renamed to /home/cch/Downloads/docker-compose.2.yml.
+2024-11-07 01:12:20.776082 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/docker-compose.2.yml
+2024-11-07 01:45:13.457871 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/steam_latest.deb
+2024-11-07 01:46:53.355411 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-07 01:46:53.358964 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 20:11:17.906449 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-07 20:11:17.906866 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-07 20:12:16.600200 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 20:19:47.796497 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/bazzite-nvidia-open-stable.iso
+2024-11-07 20:21:23.152021 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 20:24:01.010644 [ERROR] [AbstractCommand.cc:349] CUID#46 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 844103680-1048575999/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:25:01.701340 [ERROR] [AbstractCommand.cc:349] CUID#40 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1405091840-1572863999/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:25:48.163049 [ERROR] [AbstractCommand.cc:349] CUID#38 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 4575985664-4717543423/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:25:58.074444 [ERROR] [AbstractCommand.cc:349] CUID#42 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 8273264640-8384872447/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:26:22.244655 [ERROR] [AbstractCommand.cc:349] CUID#44 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 4096786432-4193255423/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:26:37.060458 [ERROR] [AbstractCommand.cc:349] CUID#34 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 7278166016-7337934847/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:27:01.557017 [ERROR] [AbstractCommand.cc:349] CUID#41 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 4546625536-4581228543/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:27:07.634647 [ERROR] [AbstractCommand.cc:349] CUID#37 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 4081057792-4098883583/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:27:13.478945 [ERROR] [AbstractCommand.cc:349] CUID#45 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 1394606080-1406140415/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:27:15.978180 [ERROR] [AbstractCommand.cc:349] CUID#49 - Download aborted. URI=https://download.bazzite.gg/bazzite-stable.iso
+Exception: [AbstractCommand.cc:351] errorCode=8 URI=https://download.bazzite.gg/bazzite-stable.iso
+  -> [HttpResponse.cc:81] errorCode=8 Invalid range header. Request: 8274313216-8284798975/8384872448, Response: 0-8384872447/8384872448
+2024-11-07 20:27:22.204704 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/bazzite-stable.iso
+2024-11-07 20:27:23.825804 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-07 23:33:27.947171 [NOTICE] [HttpResponse.cc:168] CUID#82 - Redirecting to https://l.xmu.edu.my/pluginfile.php/1102519/mod_resource/content/1/Assignment%20Cover%20Page.docx
+2024-11-07 23:33:28.026495 [NOTICE] [RequestGroup.cc:1214] Download complete: /home/cch/Downloads/Assignment Cover Page.docx
+2024-11-07 23:39:19.716378 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-07 23:39:19.720167 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-08 17:26:18.090304 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-08 17:26:18.090797 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-08 17:27:17.666324 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-08 17:30:50.139821 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2024-11-08 17:30:50.143151 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2024-11-09 15:45:24.776361 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-11-09 15:45:24.776826 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-11-09 15:46:23.299907 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.

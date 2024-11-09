@@ -16,7 +16,7 @@ ShowViewMode=false
 LastMimeType=application/zip
 
 [ExtractDialog]
-1920x1080 screen: Height=680
+1920x1080 screen: Height=600
 1920x1080 screen: Width=1280
 DirHistory[$e]=$HOME/,$HOME/Downloads/,$HOME/Games/,$HOME/Desktop/
 eDP-1 Height 1920x1080 eDP-1=560
@@ -42,8 +42,6 @@ ViewPropsTimestamp=2024,4,30,17,57,42.273
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
-Recent Files[$e]=file:$HOME,file:$HOME/.local/icons/school.png,file:$HOME/Downloads/book-open.svg
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Games/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/.local/icons/
 detailViewIconSize=16
 
 [KPropertiesDialog]
@@ -68,6 +66,9 @@ ToolBarsMovable=Disabled
 
 [MainWindow][Toolbar mainToolBar]
 ToolButtonStyle=IconOnly
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
 
 [Open-with settings]
 CompletionMode=1
