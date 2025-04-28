@@ -22,11 +22,6 @@ ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgcAAAADAAEAAQAA
 [General]
 Number of Actions=0
 
-[KFileDialog Settings]
-Recent Files[$e]=SOTV.png,file:$HOME/Downloads/benjamin-voros-phIFdC6lA4E-unsplash.jpg
-Recent URLs[$e]=file:$HOME/,file:$HOME/Downloads/
-detailViewIconSize=16
-
 [KPropertiesDialog]
 1920x1080 screen: Height=622
 1920x1080 screen: Width=498

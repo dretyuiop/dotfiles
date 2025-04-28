@@ -62,8 +62,8 @@ fontWeight=400
 showWeekNumbers=true
 
 [Containments][2][Applets][20][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
@@ -99,14 +99,14 @@ plugin=org.kde.plasma.icontasks
 PreloadWeight=42
 
 [Containments][2][Applets][52][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][52][Configuration][General]
 groupingAppIdBlacklist=steam_app_1449850
 groupingLauncherUrlBlacklist=\\0
 iconSpacing=3
-launchers=applications:org.kde.dolphin.desktop,applications:brave-browser.desktop
+launchers=applications:com.brave.Browser.desktop,applications:org.kde.dolphin.desktop
 maxStripes=1
 middleClickAction=Close
 wheelEnabled=false
@@ -133,8 +133,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][83][Configuration]
 PreloadWeight=100
-popupHeight=514
-popupWidth=735
+popupHeight=515
+popupWidth=767
 
 [Containments][2][Applets][83][Configuration][ConfigDialog]
 DialogHeight=540
@@ -152,62 +152,6 @@ recentOrdering=1
 showIconsRootLevel=true
 systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
-[Containments][2][Applets][85]
-immutability=1
-plugin=com.github.zren.commandoutput
-
-[Containments][2][Applets][85][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
-
-[Containments][2][Applets][85][Configuration][General]
-command=echo CPU
-fontSize=10
-interval=0
-italic=true
-vertAlign=32
-
-[Containments][2][Applets][86]
-immutability=1
-plugin=com.github.zren.commandoutput
-
-[Containments][2][Applets][86][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
-
-[Containments][2][Applets][86][Configuration][General]
-command=cputemp
-fontSize=17
-vertAlign=64
-
-[Containments][2][Applets][87]
-immutability=1
-plugin=com.github.zren.commandoutput
-
-[Containments][2][Applets][87][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
-
-[Containments][2][Applets][87][Configuration][General]
-command=gputemp
-fontSize=17
-vertAlign=64
-
-[Containments][2][Applets][88]
-immutability=1
-plugin=com.github.zren.commandoutput
-
-[Containments][2][Applets][88][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
-
-[Containments][2][Applets][88][Configuration][General]
-command=echo GPU
-fontSize=10
-interval=0
-italic=true
-vertAlign=32
-
 [Containments][2][ConfigDialog]
 DialogHeight=83
 DialogWidth=1920
@@ -216,7 +160,7 @@ DialogWidth=1920
 PreloadWeight=42
 
 [Containments][2][General]
-AppletOrder=83;4;52;6;7;85;86;88;87;20
+AppletOrder=83;4;52;6;7;20
 
 [Containments][8]
 activityId=
@@ -226,7 +170,7 @@ lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
 popupHeight=504
-popupWidth=474
+popupWidth=555
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -258,7 +202,7 @@ immutability=1
 plugin=org.kde.plasma.manage-inputmethod
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=67
+PreloadWeight=77
 
 [Containments][8][Applets][14][Configuration][ConfigDialog]
 DialogHeight=660
@@ -303,14 +247,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][21][Configuration]
-PreloadWeight=77
+PreloadWeight=73
 
 [Containments][8][Applets][22]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][22][Configuration]
-PreloadWeight=100
+PreloadWeight=66
 
 [Containments][8][Applets][23][Configuration]
 PreloadWeight=42
@@ -419,7 +363,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][54][Configuration]
-PreloadWeight=92
+PreloadWeight=89
 
 [Containments][8][Applets][56][Configuration]
 PreloadWeight=42
@@ -429,7 +373,7 @@ immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][8][Applets][57][Configuration]
-PreloadWeight=82
+PreloadWeight=87
 
 [Containments][8][Applets][57][Configuration][ConfigDialog]
 DialogHeight=660
@@ -472,23 +416,22 @@ plugin=org.kde.kdeconnect
 PreloadWeight=100
 
 [Containments][8][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
+DialogHeight=540
+DialogWidth=720
 
 [Containments][8][Configuration]
 PreloadWeight=42
 
 [Containments][8][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.kdeconnect
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,dev.jhyub.supergfxctl
 hiddenItems=org.kde.plasma.weather,org.kde.plasma.nightcolorcontrol,dev.jhyub.supergfxctl,org.kde.kdeconnect,ryzen-controller,xdm-app,firewall-applet,org.kde.kalendar.contact,org.kde.plasma.mediacontroller
-knownItems=org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.printmanager,org.kde.kdeconnect
+knownItems=org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,dev.jhyub.supergfxctl
 shownItems=org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,56623116,org.kde.plasma.battery,Fcitx,Optimus Manager Qt,Fancontrol-GUI_fancontrold.gui,org.kde.plasma.volume,org.kde.plasma.bluetooth
 
-[Containments][84]
-ItemGeometries-1536x864=
+[Containments][90]
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=063fd4ba-98ba-4f78-83c7-1ade5db59bb9
+activityId=2f75c856-d501-47b0-aee1-271dec5c6b59
 formfactor=0
 immutability=1
 lastScreen=0
@@ -496,16 +439,20 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][84][ConfigDialog]
-DialogHeight=630
-DialogWidth=840
+[Containments][90][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
-[Containments][84][Wallpaper][org.kde.image][General]
-Image=/home/cch/.local/share/wallpapers/Magna-Mountain-Wallpaper-Without-Plasma-Logo.png
+[Containments][90][General]
+positions={"1920x1080":[]}
+
+[Containments][90][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Nexus/
+PreviewImage=/usr/share/wallpapers/Nexus/
 SlidePaths=/usr/share/wallpapers/
 
-[Containments][89]
-activityId=063fd4ba-98ba-4f78-83c7-1ade5db59bb9
+[Containments][91]
+activityId=2f75c856-d501-47b0-aee1-271dec5c6b59
 formfactor=0
 immutability=1
 lastScreen=1
@@ -515,4 +462,4 @@ wallpaperplugin=org.kde.image
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Music,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/dochat.txt,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/download app.txt,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/crash.txt,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/import.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/default.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/BraveSoftware,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/Import,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/ryzenadj-time.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/grub btrfs config.png,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/snapper.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/pacman.log,0,eafaad4a-3947-4207-8c45-c47799b0f853,desktop:/brightness.sh,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/Important,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/install.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/Ebook,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/phone.7z,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/packages-to-install.txt,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/Homework,0,904b9b01-06c3-4ed5-bee9-519d7aa3d5db,desktop:/Archive.zip,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/Important,0,eafaad4a-3947-4207-8c45-c47799b0f853,desktop:/Import,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/profile_0,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/vcards_20230528_004326.vcf,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/dell-smm-hwmon.conf,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/Important,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/Important,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/cch-signature.png,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/btrfs-snapshot.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/endeavour.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/Important pictures,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/btrfs snapshot.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/optional.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/msgstore.db.crypt15,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/Text File.txt,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/sudo brightness,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/non-functional testing.docx,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/Important,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/endeavour.sh,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/faster-eos.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/Movies,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/Important,0,98d4a427-8810-4812-a5ca-a08931543a02
+screenMapping=desktop:/snapper.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/Text File.txt,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/dell-smm-hwmon.conf,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/btrfs snapshot.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/Important pictures,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/msgstore.db.crypt15,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/BraveSoftware,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/endeavour.sh,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/Music,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/download app.txt,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/install.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/Important,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/Import,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/Archive.zip,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/Homework,0,904b9b01-06c3-4ed5-bee9-519d7aa3d5db,desktop:/Important,0,eafaad4a-3947-4207-8c45-c47799b0f853,desktop:/Movies,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/Important,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/optional.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/grub btrfs config.png,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/non-functional testing.docx,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/phone.7z,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/sudo brightness,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/dochat.txt,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/pacman.log,0,eafaad4a-3947-4207-8c45-c47799b0f853,desktop:/Important,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/Import,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/crash.txt,0,502412b8-144c-4d37-a332-368dcd8fbac4,desktop:/endeavour.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/Important,0,1936c494-e478-46cc-9321-04762c2fd5dd,desktop:/packages-to-install.txt,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/cch-signature.png,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/profile_0,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/vcards_20230528_004326.vcf,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/brightness.sh,0,1d7c952e-ecdd-4ead-87d3-7d26b253ea5b,desktop:/btrfs-snapshot.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/Important,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/import.sh,0,b0d98929-594c-44c3-ae8d-e141c1085bb3,desktop:/faster-eos.sh,0,066c2716-a80a-4b9a-8db7-38de967ca498,desktop:/default.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/ryzenadj-time.txt,0,98d4a427-8810-4812-a5ca-a08931543a02,desktop:/Ebook,0,1936c494-e478-46cc-9321-04762c2fd5dd

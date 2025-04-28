@@ -137,23 +137,26 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=1920,1002
-History Items[$e]=file:$HOME/Nextcloud/Code/python,file:$HOME,file:///run/media/cch/Ventoy,file:$HOME/Games/Steam,file:$HOME/Games/Steam/steamapps,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git/HeroicGamesLauncher/src,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Games/Steam,file:$HOME/Documents,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Downloads,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME,file:$HOME/Games/OPTCG-dev,file:$HOME/Games/OPTCG-dev/wine-prefix,file:$HOME/Games/Dishonored,file:$HOME/Games/Dishonored,file:$HOME/Videos,file:$HOME/Documents/Group-Assignment,file:$HOME/Games/Unity/test,file:$HOME/Games/Unity/Group-Assignment,file:$HOME/Games/Unity/Test,file:$HOME/Games/Unity/Game-Project,file:$HOME/Games/Unity/rpg,file:$HOME/Games/Unity/RPG Assignment,file:$HOME/Games/Unity/RPG,file:$HOME/Games/Unity/Assignment2_vers1,file:$HOME/Games/Unity,file:$HOME/Games/Assignment2_vers1,file:$HOME/Games,file:$HOME/Games/Mahjong Soul,file:$HOME/Nextcloud/Code/python,file:$HOME/Nextcloud/Code/C++,file:$HOME/Nextcloud/Code/C++,file:$HOME/Games/game-dev,file:$HOME/Games
+History Items[$e]=file:$HOME/Downloads,file:$HOME/Nextcloud/Code/fyp,file:$HOME/Nextcloud/Code/FYP,file:$HOME/Documents,file:$HOME/Games/Steam,file:$HOME/Games/Steam/steamapps/common,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Heroic,file:$HOME,file:$HOME,file:$HOME/AndroidStudioProjects,file:$HOME/Nextcloud/Code/python,file:$HOME,file:///run/media/cch/Ventoy,file:$HOME/Games/Steam,file:$HOME/Games/Steam/steamapps,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Games/Steam,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Git/HeroicGamesLauncher/src,file:$HOME/Git/HeroicGamesLauncher,file:$HOME/Games/Steam,file:$HOME/Documents,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME/Downloads,file:$HOME/Games,file:$HOME/Games,file:$HOME/Games,file:$HOME,file:$HOME/Games/OPTCG-dev,file:$HOME/Games/OPTCG-dev/wine-prefix,file:$HOME/Games/Dishonored,file:$HOME/Games/Dishonored,file:$HOME/Videos,file:$HOME/Documents/Group-Assignment,file:$HOME/Games/Unity/test,file:$HOME/Games/Unity/Group-Assignment,file:$HOME/Games/Unity/Test
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x9d\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
 AccentColor=0,0,0,0
 BrowserApplication=brave-browser.desktop
-ColorSchemeHash=babca25f3a5cf7ece26a85de212ab43d0a141257
+ColorSchemeHash=8d483e98b770fbeba364db371382301dbfc92748
 LastUsedCustomAccentColor=137,128,250
 Name=Breeze Dark
+TerminalApplication=konsole
+TerminalService=org.kde.konsole.desktop
 UseSystemBell=true
 XftHintStyle=hintslight
-XftSubPixel=rgb
+XftSubPixel=none
 fixed=JetBrainsMono Nerd Font,14,-1,5,50,0,0,0,0,0
-font=Open Sans,11,-1,5,50,0,0,0,0,0
-menuFont=Noto Sans,11,-1,5,50,0,0,0,0,0
+font=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 shadeSortColumn=true
-smallestReadableFont=Noto Sans,9,-1,5,50,0,0,0,0,0
-toolBarFont=Noto Sans,11,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 widgetStyle=Breeze
 
 [Icons]
@@ -172,7 +175,7 @@ widgetStyle=kvantum
 [KFileDialog Settings]
 Allow Expansion=true
 Automatically select filename extension=true
-Breadcrumb Navigation=false
+Breadcrumb Navigation=true
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -182,10 +185,10 @@ Show Inline Previews=false
 Show Preview=false
 Show Speedbar=true
 Show hidden files=true
-Sort by=Name
+Sort by=Date
 Sort directories first=true
 Sort hidden files last=true
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=138
 View Style=DetailTree
 
@@ -206,7 +209,7 @@ PrevCompletion=
 [WM]
 activeBackground=49,54,59
 activeBlend=252,252,252
-activeFont=Noto Sans,11,-1,5,50,0,0,0,0,0
+activeFont=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 activeForeground=252,252,252
 inactiveBackground=42,46,50
 inactiveBlend=161,169,177

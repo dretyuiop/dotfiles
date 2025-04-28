@@ -1,1 +1,0 @@
-export PULSE_LATENCY_MSEC=60

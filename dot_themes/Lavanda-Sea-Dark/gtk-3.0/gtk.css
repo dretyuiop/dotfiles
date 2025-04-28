@@ -2407,6 +2407,10 @@ notebook > header > tabs > tab button.close-button {
   min-height: 24px;
 }
 
+notebook > header.top tabs > tab + tab, notebook > header.bottom tabs > tab + tab {
+  margin-left: 3px;
+}
+
 notebook > header.top tabs:not(:only-child):first-child, notebook > header.bottom tabs:not(:only-child):first-child {
   margin-left: 0;
 }
@@ -2417,6 +2421,10 @@ notebook > header.top tabs:not(:only-child):last-child, notebook > header.bottom
 
 notebook > header.top tabs tab.reorderable-page, notebook > header.bottom tabs tab.reorderable-page {
   border-style: solid;
+}
+
+notebook > header.left tabs > tab + tab, notebook > header.right tabs > tab + tab {
+  margin-top: 3px;
 }
 
 notebook > header.left tabs:not(:only-child):first-child, notebook > header.right tabs:not(:only-child):first-child {

@@ -1,4 +1,4 @@
 system:
-  gpu: card0
+  gpu: card1
   mangohud: true
   prime: true

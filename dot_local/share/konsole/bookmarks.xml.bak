@@ -41,4 +41,20 @@
    </metadata>
   </info>
  </bookmark>
+ <bookmark href="file:///home/cch">
+  <title>cch</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name=""/>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///var/home/cch">
+  <title>cch</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name=""/>
+   </metadata>
+  </info>
+ </bookmark>
 </xbel>

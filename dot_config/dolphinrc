@@ -15,6 +15,9 @@ ShowViewMode=false
 [CreateDialog]
 LastMimeType=application/zip
 
+[DetailsMode]
+IconSize=48
+
 [ExtractDialog]
 1920x1080 screen: Height=600
 1920x1080 screen: Width=1280
@@ -62,7 +65,6 @@ eDP-2 Width 1920x1080 eDP-2=403
 
 [MainWindow]
 MenuBar=Disabled
-ToolBarsMovable=Disabled
 
 [MainWindow][Toolbar mainToolBar]
 ToolButtonStyle=IconOnly

@@ -1,7 +1,7 @@
 {
     "window.titleBarStyle": "custom",
     "security.workspace.trust.untrustedFiles": "open",
-    "editor.fontFamily": "JetBrainsMono NF",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.fontLigatures": true,
     "editor.fontSize": 17,
     "security.workspace.trust.startupPrompt": "never",
@@ -12,6 +12,7 @@
     "C_Cpp.intelliSenseEngine": "disabled",
     "code-runner.runInTerminal": true,
     "code-runner.executorMapByFileExtension": {
+
         ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
         ".vbs": "cscript //Nologo",
         ".scala": "scala",
@@ -66,7 +67,7 @@
         "bat": "cmd /c",
         "shellscript": "bash",
         "fsharp": "fsi",
-        "csharp": "scriptcs",
+        "csharp": "cscs",
         "vbscript": "cscript //Nologo",
         "typescript": "ts-node",
         "coffeescript": "coffee",
@@ -103,7 +104,6 @@
     },
     "workbench.colorTheme": "Dracula Dark+",
     "explorer.confirmDelete": false,
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "code-runner.saveFileBeforeRun": true,
     "git.openRepositoryInParentFolders": "never",
     "code-runner.fileDirectoryAsCwd": true,
@@ -128,9 +128,23 @@
             
         ]
     },
-    "python.defaultInterpreterPath": "/home/cch/Documents/python/zlib",
-    "terminal.integrated.defaultProfile.linux": "fish",
-    "vsix.sources": {
-        
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
     },
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "terminal.integrated.automationProfile.linux": {
+    
+    
+    },
+    "editor.fontVariations": false,
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": true,
 }

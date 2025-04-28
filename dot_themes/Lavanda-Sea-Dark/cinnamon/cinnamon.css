@@ -214,7 +214,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .check-box:checked StBin, .check-box:focus:checked StBin {
-  background-image: url("assets/checkbox-dark.svg");
+  background-image: url("assets/checkbox.svg");
 }
 
 .radiobutton CinnamonGenericContainer {
@@ -239,7 +239,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .radiobutton:checked StBin, .radiobutton:focus:checked StBin {
-  background-image: url("assets/radiobutton-dark.svg");
+  background-image: url("assets/radiobutton.svg");
 }
 
 .toggle-switch {
@@ -253,7 +253,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .toggle-switch:checked, .popup-menu-item:active .toggle-switch:checked {
-  background-image: url("assets/toggle-on-dark.svg");
+  background-image: url("assets/toggle-on.svg");
 }
 
 .cinnamon-link {

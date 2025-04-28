@@ -1,6 +1,9 @@
 [$Version]
 update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
 
+[Activities][LastVirtualDesktop]
+2f75c856-d501-47b0-aee1-271dec5c6b59=6f02df91-c01b-46ad-8481-b70c3aa8eaae
+
 [Compositing]
 GLPreferBufferSwap=e
 GLTextureFilter=1
@@ -23,12 +26,10 @@ BorderActivateAll=9
 
 [NightColor]
 Active=true
-DayTemperature=5800
-EveningBeginFixed=1900
-LatitudeAuto=3.15
-LongitudeAuto=101.64
-MorningBeginFixed=0800
-NightTemperature=3700
+DayTemperature=5600
+LatitudeAuto=3.08
+LongitudeAuto=101.69
+NightTemperature=4000
 
 [Plugins]
 applicationswitcherEnabled=true

@@ -2,7 +2,7 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [Annotations]
-annotationToolType=10
+annotationToolType=2
 ellipseStrokeColor=255,0,0
 rectangleStrokeColor=255,0,0
 textFont=Open Sans,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
@@ -15,12 +15,12 @@ clipboardGroup=PostScreenshotCopyImage
 rememberSelectionRect=Always
 
 [GuiConfig]
-selectionRect=115,115,1435,902
+selectionRect=64,195,317,149
 window-position=0,0
 
 [ImageSave]
 lastImageSaveAsLocation=file:///home/cch/Documents/opcg slides/private.png
-lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20241102_140910.png
+lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20250424_012051.png
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]

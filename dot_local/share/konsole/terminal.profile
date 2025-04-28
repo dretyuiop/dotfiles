@@ -2,7 +2,7 @@
 ColorScheme=Dracula
 DimmValue=65
 EmojiFont=JetBrainsMono Nerd Font Mono,14,-1,5,50,0,0,0,0,0
-Font=JetBrainsMono NF,14,-1,5,50,0,0,0,0,0
+Font=JetBrains Mono,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 LineSpacing=0
 UseFontLineChararacters=false
 
@@ -11,8 +11,9 @@ CursorShape=1
 UseCustomCursorColor=false
 
 [General]
-Command=/bin/fish
+Command=fish
 DimWhenInactive=true
+Directory=~
 InvertSelectionColors=true
 Name=terminal
 Parent=FALLBACK/

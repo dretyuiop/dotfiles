@@ -45,7 +45,6 @@ UseSingleInstance=true
 640x360 screen: Window-Maximized=true
 960x540 screen: Window-Maximized=true
 MenuBar=Disabled
-ToolBarsMovable=Disabled
 eDP=eDP
 eDP Height 1707x960 eDP=387
 eDP Height 1920x1080 eDP=1007
