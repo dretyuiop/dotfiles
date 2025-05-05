@@ -1,7 +1,7 @@
 {
     "window.titleBarStyle": "custom",
     "security.workspace.trust.untrustedFiles": "open",
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontFamily": "JetBrainsMono NF",
     "editor.fontLigatures": true,
     "editor.fontSize": 17,
     "security.workspace.trust.startupPrompt": "never",
@@ -104,6 +104,7 @@
     },
     "workbench.colorTheme": "Dracula Dark+",
     "explorer.confirmDelete": false,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "code-runner.saveFileBeforeRun": true,
     "git.openRepositoryInParentFolders": "never",
     "code-runner.fileDirectoryAsCwd": true,
@@ -140,11 +141,5 @@
         "editor.wordBasedSuggestions": "off"
     },
     "terminal.integrated.defaultProfile.linux": "fish",
-    "terminal.integrated.automationProfile.linux": {
-    
-    
-    },
-    "editor.fontVariations": false,
-    "dart.debugExternalPackageLibraries": true,
-    "dart.debugSdkLibraries": true,
+    "notebook.output.textLineLimit": 50,
 }

@@ -3,6 +3,7 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 
 [Activities][LastVirtualDesktop]
 2f75c856-d501-47b0-aee1-271dec5c6b59=6f02df91-c01b-46ad-8481-b70c3aa8eaae
+45f59d9c-4e66-4859-8526-b4c95d047b0c=6f02df91-c01b-46ad-8481-b70c3aa8eaae
 
 [Compositing]
 GLPreferBufferSwap=e
@@ -66,6 +67,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.4015625},{"width":0.34
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][44bea82b-2de0-5111-957d-06ed811de8d0]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][5daf3656-3539-5b9a-b56e-7e5f8acb7bff]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][66597c11-0460-50e9-950d-d38fee6a4b15]

@@ -8488,3 +8488,96 @@ Exception: [AbstractCommand.cc:351] errorCode=22 URI=https://store-eu-par-2.gofi
 2025-04-28 22:06:22.575624 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
 2025-04-28 22:06:22.575687 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
 2025-04-28 22:07:22.644700 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 00:06:00.672473 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 00:06:00.673354 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 00:06:00.673514 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 00:07:01.364438 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 03:27:09.941557 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-04 03:27:09.943955 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 03:28:11.348080 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 03:28:11.348312 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 03:28:11.348331 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 03:29:11.419966 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 03:45:32.578285 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 03:45:32.578468 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 03:45:32.578488 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 03:46:32.650590 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 06:33:53.156320 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:33:53.156875 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:33:53.156919 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:37:03.965708 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:37:03.966044 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:37:03.966086 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:42:17.422954 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:42:17.423289 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:42:17.423330 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:43:17.031525 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 06:50:13.080574 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:50:13.080904 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:50:13.080947 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:54:17.652155 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:54:17.652487 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:54:17.652529 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:55:17.733430 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 06:58:27.790363 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 06:58:27.790687 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 06:58:27.790728 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 06:59:27.910396 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 15:15:05.247636 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 15:15:05.247905 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 15:15:05.247931 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 15:16:05.823626 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-04 18:08:22.860224 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-04 18:08:22.860643 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-04 18:08:22.860665 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-04 18:09:22.934996 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 02:12:30.762172 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 02:12:30.771895 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 02:15:31.773143 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 02:15:31.773333 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 02:15:31.773352 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 02:16:31.843168 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 10:23:19.613719 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 10:23:19.618911 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:08:55.678605 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:08:55.679279 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:08:55.679320 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:09:55.770485 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:20:35.937078 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:20:35.937344 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:20:35.937364 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:21:36.014713 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:34:45.151913 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:34:45.154510 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:36:17.340814 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:36:17.340987 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:36:17.341006 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:37:17.424416 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:37:55.063298 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:37:55.068720 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:38:49.022386 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:38:49.022799 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:38:49.022820 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:39:49.104132 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:42:13.239415 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:42:13.241128 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:43:15.603840 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:43:15.604046 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:43:15.604069 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:44:08.854847 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:44:08.856189 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:45:08.728218 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:45:08.728415 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:45:08.728434 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:46:08.800003 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:46:22.799283 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:46:22.800876 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:47:14.511872 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:47:14.512043 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:47:14.512064 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:47:24.735513 [NOTICE] [DownloadEngine.cc:265] Emergency shutdown sequence commencing...
+2025-05-05 18:47:24.736804 [NOTICE] [MultiUrlRequestInfo.cc:341] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.
+2025-05-05 18:48:18.324174 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2025-05-05 18:48:18.324583 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2025-05-05 18:48:18.324636 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2025-05-05 18:49:18.397189 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to '/home/cch/.local/aria2/aria2.session' successfully.

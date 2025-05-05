@@ -4,9 +4,9 @@ manageProfile=false
 [SSH Config][home-server]
 hostname=home-server
 identifier=home-server
-importedFromSshConfig=false
+importedFromSshConfig=true
 port=22
-profileName=Don't Change
+profileName=
 sshkey=
 useSshConfig=true
-username=
+username=admind

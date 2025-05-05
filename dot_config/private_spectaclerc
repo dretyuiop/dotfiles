@@ -15,12 +15,13 @@ clipboardGroup=PostScreenshotCopyImage
 rememberSelectionRect=Always
 
 [GuiConfig]
-selectionRect=64,195,317,149
+captureMode=0
+selectionRect=43,199,423,188
 window-position=0,0
 
 [ImageSave]
 lastImageSaveAsLocation=file:///home/cch/Documents/opcg slides/private.png
-lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20250424_012051.png
+lastImageSaveLocation=file:///home/cch/Pictures/Screenshots/Screenshot_20250503_184843.png
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]

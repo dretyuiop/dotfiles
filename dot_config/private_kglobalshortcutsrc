@@ -2,6 +2,7 @@
 _k_friendly_name=Activity Manager
 switch-to-activity-063fd4ba-98ba-4f78-83c7-1ade5db59bb9=none,none,Switch to activity "Default"
 switch-to-activity-2f75c856-d501-47b0-aee1-271dec5c6b59=none,none,Switch to activity "Default"
+switch-to-activity-45f59d9c-4e66-4859-8526-b4c95d047b0c=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
@@ -282,7 +283,7 @@ toggle do not disturb=none,,Toggle do not disturb
 _launch=Meta+B
 
 [services][com.brave.Browser.desktop]
-_launch=Meta+B
+_launch=
 
 [services][io.github.cboxdoerfer.FSearch.desktop]
 _launch=Meta+F

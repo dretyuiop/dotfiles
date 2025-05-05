@@ -98,7 +98,7 @@ Font=JetBrainsMono NF,14,-1,5,50,0,0,0,0,0
 Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
-Text Font=JetBrains Mono,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font=JetBrainsMono Nerd Font,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 Text Font Features=
 Word Wrap Marker=false
 
@@ -177,8 +177,6 @@ SetEditor=false
 [MainWindow]
 1536x864 screen: Window-Maximized=true
 1707x960 screen: Window-Maximized=true
-1920x1080 screen: Height=648
-1920x1080 screen: Width=1152
 1920x1080 screen: Window-Maximized=true
 2 screens: Window-Maximized=true
 eDP Window-Maximized 1707x960 eDP=true
@@ -259,6 +257,7 @@ Messages=true
 ReferencesDeclaration=true
 SemanticHighlighting=false
 ServerConfiguration=
+ShowCompletions=true
 SignatureHelp=true
 SymbolDetails=false
 SymbolExpand=true

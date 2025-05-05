@@ -155,17 +155,6 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/cch/.config/home-manager">
-  <title>home-manager</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="inode-directory"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1731853981/0</ID>
-   </metadata>
-  </info>
- </bookmark>
  <bookmark href="remote:/">
   <title>Network</title>
   <info>
@@ -567,6 +556,33 @@
    </metadata>
   </info>
  </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/dm_2d0</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>a88b2644-beac-45e9-90e4-3e95761ea87d</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p2</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>f380708d-47e7-4f9b-867a-537fc71ede7d</uuid>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme1n1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <uuid>e232779f327776ff</uuid>
+   </metadata>
+  </info>
+ </separator>
  <bookmark href="kdeconnect://91e2a8a59a354faf870bd6a890bbcc0e/">
   <title>POCO F6</title>
   <info>
@@ -574,7 +590,7 @@
     <bookmark:icon name="kdeconnect"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1745849186/0</ID>
+    <ID>1746442103/0</ID>
    </metadata>
   </info>
  </bookmark>

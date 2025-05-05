@@ -160,7 +160,7 @@ toolBarFont=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 widgetStyle=Breeze
 
 [Icons]
-Theme=Tela-dracula-dark
+Theme=Tela-circle-dracula-light
 
 [KDE]
 AnimationDurationFactor=0.25
@@ -170,7 +170,7 @@ ScrollbarLeftClickNavigatesByPage=false
 ShowDeleteCommand=true
 SingleClick=false
 contrast=4
-widgetStyle=kvantum
+widgetStyle=kvantum-dark
 
 [KFileDialog Settings]
 Allow Expansion=true
